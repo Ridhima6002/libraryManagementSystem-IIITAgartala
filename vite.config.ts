@@ -8,7 +8,6 @@ export default defineConfig(() => ({
     host: "::",
     port: 8080,
   },
-   base: "/libraryManagementSystem-IIITAgartala/",
   plugins: [react()],
   resolve: {
     alias: {
